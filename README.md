@@ -1,4 +1,5 @@
 # Ignite_Stocks_Backend_Scripts
+## About
 A package of scripts that handle Database Populating Operations, Admin Controls, Stock Value Changes, Automated Mass Email Communication for FPS Ignite Stocks Round.
 
 This package contains the main program that executees stocks, and other modules that:
