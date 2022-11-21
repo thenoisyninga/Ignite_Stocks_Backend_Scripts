@@ -14,5 +14,4 @@ This package contains the main program that executees stocks, and other modules 
 Install the required python libraries, have everything in the same directory. Have the ServiceAccountKey.json file in the directory for validation of the firebase connection, and have a text file 'password.txt' with the stock database password in the same directory to validate the SQL connection.
 
 ## Usage
-The Main_Process.py file executes the stock market round
-The Admin_Controls.py file is a diverse package that gives access to all the features mentioned above
+The Main_Process.py file executes the stock market round. The Admin_Controls.py file is a diverse package that gives access to all the features mentioned above
